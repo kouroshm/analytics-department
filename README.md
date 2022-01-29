@@ -10,3 +10,6 @@ The first step into giving insights to any department is preparing your data and
 Using logistic regression and based on the identification of the best predictors from the last part I tried to condense the data and statistically analyze how each predictor have influence on the purchase.
 ## Part 3 & 4. Prediction and Evaluation
 In this part using the insights from the last part I tried to trained a regression model and give insights to marketing department about newcomer customers. To further evaluate and validate the results the prediction has been done on already available dataset and confusion matrix and f1-score were used to evaluate the model in test data and necessary suggestion is made for the team to better the performance of the model.
+
+# Requirements
+Please download all files. The data can be find in the [data](../masters/data) 
