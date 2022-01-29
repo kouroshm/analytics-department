@@ -19,4 +19,3 @@ All libraries that are used:
 3. matplotlib
 4. scikit-learn
 5. statsmodel
-Arsham is an asshole.
