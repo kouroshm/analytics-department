@@ -23,8 +23,8 @@ All libraries that are used:
 
 # Installation
 You can write the data directory in the following line of the code.
-`assignment_data = pd.read_csv("input the file directory")`
+```assignment_data = pd.read_csv("input the file directory")```
 
 To install all the required libraries you may use the following code or install the dependencies based on the libraries that are provided:
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
