@@ -2,7 +2,7 @@
 
 In this project as analytics team of a dealership chain we are trying to give the marketing department an insight about their customers.
 
-# Premise of The Project
+# Usage
 In this project I was trying to firstly clean our data. The project has mentioned to delete all rows with missing infos however in the real world applications different methods can be used to replicate the data in hand such as interpolation.
 ## Part 1. Data Preperation and Visualization
 The first step into giving insights to any department is preparing your data and understanding data. In this part I tried to do an exploratory data analysis to understand which predictors should I used in order to predict which customers are likely to purchase car with the dealership
