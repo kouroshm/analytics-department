@@ -23,7 +23,7 @@ All libraries that are used:
 
 # Installation
 You can write the data directory in the first cell of the [analytics-department.ipynb](/analytics-department.ipynb) file.
-```assignment_data = pd.read_csv("input the file directory")```
+```data = pd.read_csv("input the file directory")```
 
 To install all the required libraries you may use the following code or install the dependencies based on the libraries that are provided:  
 ```pip install -r requirements.txt```
